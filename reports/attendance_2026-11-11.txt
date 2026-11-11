@@ -5,10 +5,10 @@ Date: 2026-11-11
 
 EMP001 - PRESENT
 EMP002 - PRESENT
-EMP003 - ABSENT
+EMP003 - PRSENT
 EMP004 - PRESENT
 EMP005 - PRESENT
 
 Total Employees: 5
-Present: 4
-Absent: 1
+Present: 5
+Absent: 0
